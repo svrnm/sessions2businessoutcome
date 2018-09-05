@@ -1,0 +1,16 @@
+{
+  "name": "sessions2businessoutcome",
+  "version": "0.0.1",
+  "description": "Get possible business outcomes from browser sessions",
+  "main": "bs2bo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Severin Neumann <severin.neumann@appdynamics.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "common-prefix": "^1.1.0",
+    "graphlib": "^2.1.5",
+    "graphlib-dot": "^0.6.2"
+  }
+}
